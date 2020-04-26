@@ -1,0 +1,61 @@
+[33mcommit 307c033834a7ebdbb3c3fa22194b3ba0a63455d1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Sun Apr 26 15:41:01 2020 -0300
+
+    relembrando commit
+
+[33mcommit 93badd296b7f6cfd300a6b819c21f43d98bd3596[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: rafaelocunha <40829267+rafaelocunha@users.noreply.github.com>
+Date:   Fri Aug 31 10:25:58 2018 -0300
+
+    Criando o teste.js
+
+[33mcommit e0ff139f3cd7529fb4237093ccbea899f1a9a6ff[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Fri Aug 31 10:03:10 2018 -0300
+
+    Revert "Nova funcionalidade X"
+    
+    This reverts commit 9f33053cd60be01e0538166bb663dc1cfaaf70a6.
+
+[33mcommit 9f33053cd60be01e0538166bb663dc1cfaaf70a6[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Fri Aug 31 09:51:19 2018 -0300
+
+    Nova funcionalidade X
+
+[33mcommit 70752b6ca994911d0c4dbd0373e3279361a1d207[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Fri Aug 31 09:37:57 2018 -0300
+
+    Adicionando o arquivo GITIGNORA no projeto
+
+[33mcommit b41004a4b40187fa40d22a5f0bf51e2b207e1856[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Thu Aug 30 11:00:22 2018 -0300
+
+    Adicionando JS
+
+[33mcommit 02b8ca9f6af70b14ad1207eb39d24fa7140012bb[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Thu Aug 30 10:56:06 2018 -0300
+
+    Inserindo novos arquivos
+
+[33mcommit 5184de3c9a8de1843ded42fbc3969edb1aed2887[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Thu Aug 30 10:50:28 2018 -0300
+
+    Teste git
+
+[33mcommit 5fb01dce565a8cda6a3ab26d004b34a4c5e08930[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Thu Jun 14 11:01:10 2018 -0300
+
+    Alteração no CSS
+
+[33mcommit eb0bd374b02de3dd52b3b7e1592ebfde617f45ad[m
+Author: Rafael Oliveira <rafaelocunha@gmail.com>
+Date:   Tue Jun 12 09:22:28 2018 -0300
+
+    Primeiro Commit
